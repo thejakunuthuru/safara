@@ -325,14 +325,14 @@ pytest tests/
 
 ## 🗺️ Roadmap
 
-### Phase 1: MVP (Current - Q2 2025)
+### Phase 1: MVP (Current - Q2 2026)
 - [x] Basic camera capture and recording
 - [x] Simple incident detection (hard braking)
 - [ ] Local video storage
 - [ ] Basic iOS UI
 - [ ] Event playback
 
-### Phase 2: AI Enhancement (Q2-Q3 2025)
+### Phase 2: AI Enhancement (Q2-Q3 2026)
 - [ ] YOLOv8 object detection integration
 - [ ] Lane departure detection
 - [ ] Forward collision warning
@@ -341,21 +341,21 @@ pytest tests/
 - [ ] Video summarization
 - [ ] CarPlay basic integration
 
-### Phase 3: Voice & Intelligence (Q3-Q4 2025)
+### Phase 3: Voice & Intelligence (Q3-Q4 2026)
 - [ ] Voice assistant with Llama 3.2
 - [ ] Context-aware conversations
 - [ ] Proactive notifications
 - [ ] Trip analytics dashboard
 - [ ] Driving behavior scoring
 
-### Phase 4: Cloud & Sharing (Q4 2025)
+### Phase 4: Cloud & Sharing (Q4 2026)
 - [ ] Cloud backup (encrypted)
 - [ ] Cross-device sync
 - [ ] Family sharing
 - [ ] Insurance integration API
 - [ ] Community hazard sharing
 
-### Phase 5: Android & Expansion (Q1 2026)
+### Phase 5: Android & Expansion (Q1 2027)
 - [ ] Android app
 - [ ] Android Auto integration
 - [ ] Multi-camera support
